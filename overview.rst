@@ -15,3 +15,7 @@ Public *cloud* APIs comply with the RESTful API design principles. REST-based We
 Public cloud APIs use HTTPS as the transmission protocol. Requests/Responses are transmitted by using JSON messages, with media type represented by **Application/json**.
 
 For details about how to use APIs, see `API Usage Guidelines <https://docs.otc.t-systems.com/en-us/api/apiug/apig-en-api-180328001.html?tag=API%20Documents>`__.
+
+
+new
+
